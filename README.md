@@ -84,7 +84,9 @@ end endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![EXP 6 logic](https://github.com/user-attachments/assets/6dd38dbf-100e-4906-9455-32d2d3d12c84)
 
 **RESULTS**
+
 Thus,the SR flipflop using verilog and validating their functionality using their functional tables is implemented successfully.
